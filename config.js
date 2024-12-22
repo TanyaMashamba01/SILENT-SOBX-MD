@@ -10,6 +10,7 @@ module.exports = {
     CAPTION: process.env.CAPTION || "POWERED BY JoshuamamboJM",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
     AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "263716729222",
     READ_MESSAGE: process.env.READ_MESSAGE || "true", // Added auto-read configuration
     MODE: process.env.MODE || "public",
     AUTO_VOICE: process.env.AUTO_VOICE || "false",
