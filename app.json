@@ -1,7 +1,7 @@
 {
-  "name": "SILENT-SOBX-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛʟᴏᴠᴇʀ⁴³²",
-  "logo": "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
+  "name": "Joshuamambo1JM",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ  JoshuamamboJM created sᴏᴠᴇʀ⁴³²",
+  "logo": "https://files.catbox.moe/tmtn0f.jpeg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://telegra.ph/file/2a06381b260c3f096a612.jpg"
+      "value": "https://files.catbox.moe/tmtn0f.jpeg"
     }, 
     
     "ALIVE_MSG": {
@@ -28,7 +28,7 @@
     "PREFIX": {
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": true,
-      "value": "."
+      "value": "~"
     },
     
     "MODE": {
@@ -46,7 +46,7 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STICKER": {
@@ -58,7 +58,7 @@
     "AUTO_READ_STATUS": {
       "description": "Make it true if you want bot auto auto_read_status.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "ANTI_LINK": {
@@ -76,7 +76,7 @@
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
       "required": true,
-      "value": "true"
+      "value": "false"
     },
 
     "AUTO_REACT": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✦sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ✦"
+      "value": "JoshuamamboJMZ"
     }, 
 
     "HEART_REACT": {
@@ -112,17 +112,17 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY SILENTLOVER432"
+      "value": "POWERED BY JoshuamamboJM"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
       "required": true,
-      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂"
+      "value": "➺үσυя sтαтυs sεεη נυsт ησω вү JoshuamamboJM"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }
 
 
